@@ -15,7 +15,7 @@
     "express-session": "^1.15.6",
     "fluent-ffmpeg": "^2.1.2",
     "jade": "~1.11.0",
-    "moment": "^2.19.2",
+    "moment": "^2.29.4",
     "mongoose": "^4.12.3",
     "morgan": "~1.9.1",
     "moviedb": "^0.2.10",
